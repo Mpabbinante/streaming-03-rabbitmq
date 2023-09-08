@@ -7,7 +7,7 @@ Mike Abbinante
 
 # add imports at the beginning of the file
 import pika
-message = "What in tarnation!"
+message = "bloops!"
 # create a blocking connection to the RabbitMQ server
 conn = pika.BlockingConnection(pika.ConnectionParameters("LOCALHOST"))
 

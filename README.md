@@ -157,11 +157,10 @@ Each of the version 2 programs include an error as well.
 1. Search GitHub for if __name__ == "__main__":
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
-#Screen shot
+#Screen shot of working on machine
 ![Alt text](Screenshot.PNG)
 
-#Adding screenshot
-(https://github.com/Mpabbinante/streaming-03-rabbitmq/blob/main/V1%20listening%20Screenshot.PNG?raw=true)
+
 ## Reference
 
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
