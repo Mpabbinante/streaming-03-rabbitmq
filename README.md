@@ -159,7 +159,7 @@ Each of the version 2 programs include an error as well.
 1. Learn and understand this common Python idiom.
 ## Screenshot working on machine
 
-![Alt text](Screenshot-1.PNG)
+![Alt text](Screenshot.PNG)
 ## Reference
 
 ![Alt
