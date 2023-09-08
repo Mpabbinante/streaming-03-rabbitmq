@@ -160,6 +160,8 @@ Each of the version 2 programs include an error as well.
 #Screen shot
 ![Alt text](<Screenshoot 1-1.PNG>)
 
+#Adding screenshot
+(https://github.com/Mpabbinante/streaming-03-rabbitmq/blob/main/V1%20listening%20Screenshot.PNG?raw=true)
 ## Reference
 
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
