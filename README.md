@@ -158,7 +158,7 @@ Each of the version 2 programs include an error as well.
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
 #Screen shot
-![Alt text](<Screenshoot 1-1.PNG>)
+![Alt text](Screenshot.PNG)
 
 #Adding screenshot
 (https://github.com/Mpabbinante/streaming-03-rabbitmq/blob/main/V1%20listening%20Screenshot.PNG?raw=true)
