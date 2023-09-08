@@ -157,20 +157,12 @@ Each of the version 2 programs include an error as well.
 1. Search GitHub for if __name__ == "__main__":
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
-<<<<<<< HEAD
-#Screen shot of working on machine
-![Alt text](Screenshot.PNG)
+## Screenshot working on machine
 
-
-=======
-
-   
-#Screen shot of working on machine
-![Alt text](Screenshot.PNG)
-
->>>>>>> 03ed97bc973fb7531a866ac9e982fcb3df3eae00
+![Alt text](Screenshot-1.PNG)
 ## Reference
 
+![Alt
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
 - [Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 - [RabbitMQ Get Started](https://www.rabbitmq.com/#getstarted)
