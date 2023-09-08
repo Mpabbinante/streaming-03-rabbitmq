@@ -157,6 +157,8 @@ Each of the version 2 programs include an error as well.
 1. Search GitHub for if __name__ == "__main__":
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
+#Screen shot
+![Alt text](<Screenshoot 1-1.PNG>)
 
 ## Reference
 
