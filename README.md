@@ -159,7 +159,7 @@ Each of the version 2 programs include an error as well.
 1. Learn and understand this common Python idiom.
 
 #Adding screenshot
-[!(./images/V1 Listening Screenshot.PNG)](https://github.com/Mpabbinante/streaming-03-rabbitmq/blob/main/V1%20listening%20Screenshot.PNG?raw=true)
+(https://github.com/Mpabbinante/streaming-03-rabbitmq/blob/main/V1%20listening%20Screenshot.PNG?raw=true)
 ## Reference
 
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
